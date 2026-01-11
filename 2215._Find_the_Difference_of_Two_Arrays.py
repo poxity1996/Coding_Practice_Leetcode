@@ -14,3 +14,5 @@ class Solution:
         res2 = get_unique(s2,s1)
 
         return [res1,res2]
+    
+        # return [list(s1-s2),list(s2-s1)]
