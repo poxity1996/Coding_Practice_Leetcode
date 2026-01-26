@@ -21,3 +21,5 @@ class Solution:
                 return False
             
             return (check(p.left,q.right) and check(p.right,q.left))
+        
+        return check(root,left,root.right)
