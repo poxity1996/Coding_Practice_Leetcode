@@ -1,3 +1,3 @@
-title = "111. Minimum Depth of Binary Tree"
+title = "1. Two Sum"
 formatted_title = title.replace(" ", "_")
 print(formatted_title+".py")
