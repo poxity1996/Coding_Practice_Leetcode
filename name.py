@@ -1,3 +1,3 @@
-title = "1. Two Sum"
+title = ""
 formatted_title = title.replace(" ", "_")
 print(formatted_title+".py")
